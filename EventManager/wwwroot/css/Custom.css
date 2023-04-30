@@ -1,0 +1,9 @@
+﻿body {
+}
+.box{
+    background-color:darkseagreen;
+    color:white;
+    border-radius:10px;
+    width:600px;
+    left:50%;
+}
